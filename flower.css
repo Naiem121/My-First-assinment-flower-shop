@@ -1,0 +1,83 @@
+/* nav releted part */
+*{
+ .banner{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 40px 40px 200px;
+ }
+ .banner-title{
+    font-size: 80px;
+ }
+ .banner-decription{
+    font-size: 24px;
+ }
+ .primary-btn{
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+border: none;
+color: white;
+font-size: 20px;
+ }
+ /* main section style*/
+ .fetures{
+    color: #111010;
+text-align: center;
+padding-top: 60px;
+ }
+ .image{
+    width: 310px;
+    height: 428px;
+     }
+ .fetures-img{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 110px 76px 0px 76px;
+ }
+.image{
+    width: 310px;
+    height: 428px;
+    padding-top: 110px;
+    padding-bottom: 0px;
+    padding-right: 75px;
+    padding-left: 75px;
+} 
+.main-body{
+    padding-top: 60px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.para{
+    text-align: center;
+    font-size: 24px;
+    text-decoration: underline;
+}
+.main-body2{
+    margin-top: 120px;
+    min-height: 300px;
+}
+.main-body2{
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+align-items: center;
+justify-content: space-around;
+padding: 230px 0px 280px 420px;
+}  
+.body-title{
+ color: #272727;
+font-size: 40px;
+font-weight: 800;
+padding-left: 423;
+}  
+.Off{
+    color: #E55473;
+}
