@@ -123,6 +123,7 @@ display: flex;
      background-repeat: no-repeat;
     background-position: 0 0;
     margin: 0 auto;
+    margin-top: 80px;
 }
 .last-section-title{
     text-align: center;
